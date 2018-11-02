@@ -1,1 +1,1 @@
-# diabete-project
+# diabetes-project
